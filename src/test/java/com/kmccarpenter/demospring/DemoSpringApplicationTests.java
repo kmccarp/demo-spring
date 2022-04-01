@@ -3,10 +3,10 @@ package com.kmccarpenter.demospring;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class DemoSpringApplicationTests {
+@/*~~>*/SpringBootTest
+class /*~~>*/DemoSpringApplicationTests {
 
- @Test
+ @/*~~>*/Test
  void contextLoads() {
  }
 
